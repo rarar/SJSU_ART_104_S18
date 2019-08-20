@@ -18,7 +18,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_S18
 
 Course Description
 ------------------
-This semesters Interdisciplinary Seminar in Digital Media will work toward bringing SWITCH back online. Through a combination of lectures, presentations, and research, this class will explore old SWITCH articles and rebuild the web platform for a new distribution of SWITCH journal.  The core premise of the class will address individual and collaborative writing exercises, seeking to critically understand cultural normative assumptions about modernity and the use of technology while considering multiple alternatives to the current technological status quo. These assignments will build into the first issue of the re-launch of SWITCH.
+This semester’s Interdisciplinary Seminar in Digital Media will work toward bringing SWITCH back online. Through a combination of lectures, presentations, and research, this class will explore old SWITCH articles and rebuild the web platform for a new distribution of SWITCH journal. The core premise of the class will address individual and collaborative writing exercises, seeking to critically understand cultural normative assumptions about modernity and the use of technology while considering multiple alternatives to the current technological status quo. These assignments will build into the first issue of the re-launch of SWITCH.
 
 Learning Outcomes
 -----------------
@@ -32,13 +32,12 @@ Learning Outcomes
 Textbook
 --------
 
-Readings will be assigned throughout the class. 
+Readings will be assigned throughout the class. No textbook is required for the class and all readings will be presented through the class blog. 
 
 Suggested texts include:
 
-James Bridle, New Dark Age: Technology and the End of the Future
-Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
-Jaron Lanier, Ten Arguments for Deleting Your Social Media Accounts Right Now
+SWITCH internet archive
+Expanded Cinema - Gene Youngblood
 
 Classroom Protocol
 ==================
@@ -47,7 +46,9 @@ Participation
 -------------
 
 •	Participation in class discussions for readings, material that we watch in class, giving feedback to your peers on their work is mandatory. Remember that 20% of your grade is based on your participation in class + topic presentation and you are expected to actively participate in such discourses as they are some of the most important sections of our class.
-•	On Presentation days you must be able to explain and give a clear presentation of the topic, research, and concepts. If you have a hard time talking in front of a crowd or remembering your points, use a notebook, powerpoint, sketches or bullet points for your presentations. 
+ 
+•	On Presentation days you must be able to explain and give a clear presentation of the topic, research, and concepts. If you have a hard time talking in front of a crowd or remembering your points, use a notebook, powerpoint, sketches or bullet points for your presentations.
+
 •	For readings that I will be assigning in this course you are required to post your reading response (500 word two pages double spaced) response to our class blog. You are asked to think critically and post something that questions, criticizes, endorses, and/or adds to the reading. See the course outline chart for deadlines for these responses.
 
 Grading Policy
@@ -57,17 +58,14 @@ Grading Policy
 
 It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-lead presentations of the assigned readings along with visual material. The student-lead presentations will be assigned at the beginning of the semester and your presentation and preparedness will account for an additional 10% of your grade. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
 
-**Studio Visit and work presentation = 20%**
+**Weekly Reading Responses = 60% (12 x 5% each response)**
 
-Throughout the course of the semester students will be asked to present their current work to the seminar as an open studio visit. Students are responsible for presenting their work in a professional manner.
+Required weekly reading and writing assignments must be submitted on the day they are due. Students will submit a double-spaced typed written response per reading assignment (see course schedule for details). Reading responses will illustrate your brief summary of, along with your questions and challenges to, the text. Please use paragraph format, and spell-check - no bullet points. Reading responses will be assessed based upon quality and specificity of your response, as well as attention to key ideas from the assigned readings. 
 
-**Professional Practice = 20%**
+**Final Research and Art Project = 20%** 
 
-Throughout the semester students will need to engage with the professional art community. This can take the form of applications to professional conferences, SWITCH Journal participation, or art exibitions.
+The class will conclude with a 7-page written paper. Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November when the final project assignment is given.
 
-**Final Research and Art Project = 40%** 
-
-Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November.
 
 
 
@@ -76,28 +74,8 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 01/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
-| *Week 2* 01/31      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: https://schloss-post.com/pretend-bot-rehumanize-web/ or http://andrewblanton.com/Kittler_Ogger.pdf** ** Introduction to HTML |
-| *Week 3* 02/07      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: http://idyrself.com/** Website Setup and Git Pipeline |
-| *Week 4* 02/14      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249** ** HTML 2 |
-| *Week 5* 02/21      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Ways of Seeing parts 1-4 https://www.youtube.com/watch?v=0pDE4VX_9Kk https://www.youtube.com/watch?v=m1GI8mNU5Sg https://www.youtube.com/watch?v=Z7wi8jd7aC4 https://www.youtube.com/watch?v=5jTUebm73IY** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 02/28      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
-| *Week 7* 03/07      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: http://dismagazine.com/disillusioned-2/62143/hito-steyerl-politics-of-post-representation/** ** Group Work Beginning Research For Final |
-| Thursday 03/08      | **Andrew Presenting at IBM Almeden**
-| *Week 8* 03/14      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: http://nickbriz.com/thoughtsonglitchart/** or **pdf version:http://nickbriz.com/thoughtsonglitchart/thoughtsonglitchartv2.0.pdf** ** Research and in class work on papers |
-| *Week 9* 03/21      | **Reading 8 Due** **Abstracts and 15 References Due** ** Presentation + Discussion ** **Reading 9: https://www.furtherfield.org/conceptual-art-cryptocurrency-and-beyond/** ** Research and in class work on papers |
-| Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
-| *Week 10* 03/28     | **Spring Break** |
-| *Week 11* 04/04     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
-| *Week 12* 04/11     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 04/25 to the class. |
-| *Week 13* 04/18     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: https://www.fastcodesign.com/90137818/dear-elon-forget-killer-robots-heres-what-you-should-really-worry-about**|
-| *Week 14* 04/25     | **Reading 11 Due** |
-| *Week 15* 05/02     | Workshop in class for final and SWITCH Build |
-| Date TBA            | **Hammer Graduating Group Show**
-| Thursday 05/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
-| *Week 16* 05/09     | Final presentations ** Final 7-page paper due no later than Sunday, May 17th The final paper and project format will be assigned in class on Wednesday, Feb 28th and available online in PDF format |
-| *Final*             | Final Presentations 5/16 9:45  |
-|                  |  |
+| *Week 1* 08/22     | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
+
 
 **University Policies**
 Dropping and Adding
